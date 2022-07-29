@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle jam-gacor-slot",
+        "command": "jam-gacor-slot:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "jam-gacor-slot",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "jam-gacor-slot:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

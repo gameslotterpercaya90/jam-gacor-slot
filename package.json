@@ -1,0 +1,18 @@
+{
+  "name": "jam-gacor-slot",
+  "main": "./lib/jam-gacor-slot",
+  "version": "1.0.0",
+  "description": "Dapatkan Informasi Gacor Situs Terbaru Jam Gacor Slot Tanpa Rekening",
+  "keywords": ["slot online cq9","toptrend gaming slot","pragmatic play","slot toto","habanero slot","slot joker123","agen slot terbaik"],
+
+  "activationCommands": {
+    "atom-workspace": "jam-gacor-slot:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya90/jam-gacor-slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
